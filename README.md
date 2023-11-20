@@ -7,4 +7,4 @@ Untitled.ipynb --- code
 
 YouTubeAPI_wordclouds_barplots.ipynb --- code
 
-final_all.html --- results
+final_all.html --- results. You need to download images from folder Images so that everything works out correctly
